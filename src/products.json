@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "brand": "Terinsa",
+    "name": "Aerosol",
+    "description": "Aerosol negro brillante",
+    "price": 9000,
+    "totalPrice": 9000,
+    "size": "300ML",
+    "img": "https://cdnx.jumpseller.com/ace-comaderas/image/11840654/resize/540/540?1600992459",
+    "is_available": true
+  },
+  {
+    "id": 2,
+    "brand": "Terinsa",
+    "name": "Aerosol",
+    "description": "Aerosol blanco final",
+    "price": 9000,
+    "totalPrice": 9000,
+    "size": "300ML",
+    "img": "https://cdnx.jumpseller.com/ace-comaderas/image/11840654/resize/540/540?1600992459",
+    "is_available": true
+  },
+  {
+    "id": 3,
+    "brand": "Ico",
+    "name": "Vinilo",
+    "description": "Vinilo blanco tipo 1 para ext",
+    "price": 46000,
+    "totalPrice": 46000,
+    "size": "1GL",
+    "img": "https://www.ferreteriasamir.com/6146-large_default/vinilux-blanco-galon-ico.jpg",
+    "is_available": true
+  },
+  {
+    "id": 4,
+    "brand": "Pintuco",
+    "name": "Pintufill",
+    "description": "Impermeabilizante Gris 7 años",
+    "price": 56000,
+    "totalPrice": 56000,
+    "size": "1GL",
+    "img": "https://pintuco.com.co/wp-content/uploads/2020/01/pintuco-fill-7.png",
+    "is_available": false
+  },
+  {
+    "id": 5,
+    "brand": "Pintuco",
+    "name": "Anticorrosivo",
+    "description": "Anticorrosivo premium pintulux rojo",
+    "price": 57000,
+    "totalPrice": 57000,
+    "size": "1GL",
+    "img": "https://www.ferreteriasamir.com/13159-medium_default/pintura-anticorrosiva-gris-507-14-galon-pintuco-pintulux.jpg",
+    "is_available": true
+  },
+  {
+    "id": 6,
+    "brand": "Algreco",
+    "name": "Esmalte",
+    "description": "Esmalte rapido para ext",
+    "price": 60000,
+    "totalPrice": 60000,
+    "size": "1GL",
+    "img": "https://pinturasalgreco.com/wp-content/uploads/2018/10/dummie-esmalte-rapido-tipo-1.png",
+    "is_available": true
+  }
+]

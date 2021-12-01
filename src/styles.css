@@ -1,0 +1,48 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.link {
+  color: #000;
+}
+
+li {
+  list-style: none;
+  margin: 0 -5px;
+}
+
+.price {
+  color: green;
+}
+
+.card {
+  width: 300px;
+}
+
+.no_available {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+
+.cursor-disabled {
+  cursor: not-allowed;
+}
+
+.mask {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+  width: 100%;
+  height: 100vh;
+}
